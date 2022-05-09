@@ -1,0 +1,344 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Eduardo",
+      "surnames": "Alfaro Larragueta",
+      "title": "Arquitecto de Software en Tracasa",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/09/f613ac3a-afd4-4464-bfd5-7ede6e32d825_244xhbkr7g40x6bsu4gi.244xhbkr7g40x6bsu4gi6q4ry"
+      },
+      "location": {
+        "notes": "Sarriguren, Chartered Community of Navarre, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/eduardoalfarolarragueta"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Tracasa",
+          "URL": "https://www.linkedin.com/company/tracasa-global?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Arquitecto de software - Product Owner",
+            "startDate": "2017-09-01",
+            "challenges": [
+              {
+                "description": "- Arquitecto de software - Product Owner de proyecto internacional - Desarrollo React y revisión del código del equipo (Pull Requests y calidad del código) - Desarrollo .NET Core (LINQ, EF, Web API) - Arquitecto de software - Product Owner de proyecto internacional - Desarrollo React y revisión del código del equipo (Pull Requests y calidad del código) - Desarrollo .NET Core (LINQ, EF, Web API)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Siemens Gamesa",
+          "URL": "https://www.linkedin.com/company/siemensgamesa?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Arquitecto de software",
+            "startDate": "2016-04-01",
+            "finishDate": "2017-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tracasa",
+          "URL": "https://www.linkedin.com/company/tracasa-global?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2009-03-01",
+            "finishDate": "2016-04-30",
+            "challenges": [
+              {
+                "description": "Análisis y diseño de ciertos módulos de un sistema integral de gestión y actualización predial para la Ciudad de México con C# .NET (Oracle + WCF + ASP .NET). Análisis y diseño de una aplicación de gestión de catastro con Java JDK 7 y JDK 8 (PostgreSQL + Hibernate + CXF + Spring + AngularJS + HTML5 + CSS3). Análisis y diseño de aplicaciones Web (SQL Server + Entity Framework + WCF + WebAPI + AgularJS + HTML5 + CSS3). Análisis y diseño de ciertos módulos de un sistema integral de gestión y actualización predial para la Ciudad de México con C# .NET (Oracle + WCF + ASP .NET). Análisis y diseño de una aplicación de gestión de catastro con Java JDK 7 y JDK 8 (PostgreSQL + Hibernate + CXF + Spring + AngularJS + HTML5 + CSS3). Análisis y diseño de aplicaciones Web (SQL Server + Entity Framework + WCF + WebAPI + AgularJS + HTML5 + CSS3)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "KYB Steering Spain S.A."
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2007-03-01",
+            "finishDate": "2009-03-31",
+            "challenges": [
+              {
+                "description": "Implantación de un ERP y programación de añadidos. Implantación de un ERP y programación de añadidos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Pública de Navarra",
+          "URL": "https://www.linkedin.com/company/universidad-publica-de-navarra?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2006-09-01",
+            "finishDate": "2007-03-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "KYB Steering Spain S.A."
+        },
+        "roles": [
+          {
+            "name": "Técnico de Sistemas",
+            "startDate": "2006-02-01",
+            "finishDate": "2006-09-30",
+            "challenges": [
+              {
+                "description": "Realización de una aplicación como proyecto final de carrera. Tareas propias de un administrador de redes. Instalación y mantenimiento de equipos informáticos. Mantenimiento de servidores, correo electrónico, DNS… Creación, gestión y actualización de Bases de Datos. Realización de una aplicación como proyecto final de carrera. Tareas propias de un administrador de redes. Instalación y mantenimiento de equipos informáticos. Mantenimiento de servidores, correo electrónico, DNS… Creación, gestión y actualización de Bases de Datos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CTY España, Johns Hopkins University Center for Talented Youth International Charter Member",
+          "URL": "https://www.linkedin.com/company/cty-espa-a-johns-hopkins-university-center-for-talented-youth-international-charter-member?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Profesor",
+            "startDate": "2005-11-01",
+            "finishDate": "2006-08-31",
+            "challenges": [
+              {
+                "description": "Impartición clases relacionadas con la informática a niños. Impartición clases relacionadas con la informática a niños."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Pública de Navarra",
+          "URL": "https://www.linkedin.com/company/universidad-publica-de-navarra?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Profesor Asociado",
+            "startDate": "2005-09-01",
+            "finishDate": "2016-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gamesa",
+          "URL": "https://www.linkedin.com/company/siemensgamesa?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Técnico de Sistemas",
+            "startDate": "2005-06-01",
+            "finishDate": "2005-10-31",
+            "challenges": [
+              {
+                "description": "Tareas de mantenimiento y actualización de una herramienta PDM. Tareas de mantenimiento y actualización de una herramienta PDM."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "KYB Steering Spain S.A."
+        },
+        "roles": [
+          {
+            "name": "Técnico de Sistemas",
+            "startDate": "2004-05-01",
+            "finishDate": "2004-12-31",
+            "challenges": [
+              {
+                "description": "Realización de una aplicación como proyecto final de carrera. Tareas propias de un administrador de redes. Instalación y mantenimiento de equipos informáticos. Mantenimiento de servidores, correo electrónico, DNS… Creación, gestión y actualización de Bases de Datos. Realización de una aplicación como proyecto final de carrera. Tareas propias de un administrador de redes. Instalación y mantenimiento de equipos informáticos. Mantenimiento de servidores, correo electrónico, DNS… Creación, gestión y actualización de Bases de Datos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "KYB Steering Spain S.A."
+        },
+        "roles": [
+          {
+            "name": "Técnico de Sistemas",
+            "startDate": "2003-07-01",
+            "finishDate": "2003-10-31",
+            "challenges": [
+              {
+                "description": "Tareas propias de un administrador de redes. Instalación y mantenimiento de equipos informáticos. Mantenimiento de servidores, correo electrónico, DNS… Creación, gestión y actualización de Bases de Datos. Tareas propias de un administrador de redes. Instalación y mantenimiento de equipos informáticos. Mantenimiento de servidores, correo electrónico, DNS… Creación, gestión y actualización de Bases de Datos."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Reportnet 3"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Desarrollo de aplicaciones web y escritorio para Gobierno de Navarra"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-02-01",
+            "finishDate": "2016-04-30"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Módulo de Seguridad del Sistema Integral de Gestión y Actualización Predial de la Ciudad de México",
+          "URL": "https://www.tracasa.es/servicios/servicios+proyectos_ficha-internacional.aspx"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2008-09-01",
+            "finishDate": "2013-02-28"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certificado de Código de Honor de edX para el curso Learn HTML5 from W3C",
+        "startDate": "2015-07-01",
+        "finishDate": "2015-07-01",
+        "institution": {
+          "name": "edX"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certificado de Código de Honor de edX para el curso Introduction to Bootstrap",
+        "startDate": "2015-05-01",
+        "finishDate": "2015-05-01",
+        "institution": {
+          "name": "edX"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certificado de Código de Honor de edX para el curso Programming with C#",
+        "startDate": "2015-05-01",
+        "finishDate": "2015-05-01",
+        "institution": {
+          "name": "edX"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Agilidad y Lean. Gestionando los proyectos y negocios del s. XXI (4.ª edición)",
+        "startDate": "2015-04-01",
+        "finishDate": "2015-04-01",
+        "institution": {
+          "name": "Universidad Rey Juan Carlos (MiríadaX)"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "GPS: An Introduction to Satellite Navigation, with an interactive Worldwide Laboratory using Smartphones",
+        "startDate": "2014-12-01",
+        "finishDate": "2014-12-01",
+        "institution": {
+          "name": "Coursera"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Creative, Serious and Playful Science of Android Apps",
+        "startDate": "2014-12-01",
+        "finishDate": "2014-12-01",
+        "institution": {
+          "name": "Coursera"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Programming Mobile Applications for Android Handheld Systems",
+        "startDate": "2014-12-01",
+        "finishDate": "2014-12-01",
+        "institution": {
+          "name": "Coursera"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "From GPS and Google Maps to Spatial Computing",
+        "startDate": "2014-11-01",
+        "finishDate": "2014-11-01",
+        "institution": {
+          "name": "Coursera"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/eduardoalfarolarragueta"
+        }
+      ]
+    }
+  }
+}
